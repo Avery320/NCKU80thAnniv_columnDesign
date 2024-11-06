@@ -1,0 +1,11 @@
+# ignore all .3dm and .gh files
+*.3dm
+*.gh
+
+# don't ignore .3dm and .gh files in the model directory
+!model/*
+
+# ignore all files in the design and diagram directory
+working/
+design/
+diagram/
