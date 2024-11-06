@@ -15,7 +15,7 @@ diagram/*
 
 # ignore record files
 record/*
-!record/documenation.model
+!record/documentation.md
 
 # ignore printing files
 printing_file/*
