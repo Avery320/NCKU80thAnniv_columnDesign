@@ -10,11 +10,12 @@
 working/*
 
 # ignore design files
-
 design/*
 diagram/*
 
-
 # ignore record files
-printing_file/*
 record/*
+!record/documenation.model
+
+# ignore printing files
+printing_file/*
