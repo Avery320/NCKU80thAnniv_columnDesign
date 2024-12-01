@@ -17,5 +17,7 @@ diagram/*
 record/*
 !record/documentation.md
 
+
 # ignore printing files
 printing_file/*
+demo/
